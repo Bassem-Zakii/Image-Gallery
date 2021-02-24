@@ -4,4 +4,4 @@
 
 ## with css grid and js
 
-[Image Gallery website](https://bassem-zakii.github.io/Image-Gallery/)
+[Image Gallery website](https://bassem-zakii.github.io/Image-Gallery/){:target="_blank"}
