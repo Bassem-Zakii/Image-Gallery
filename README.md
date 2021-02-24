@@ -2,4 +2,6 @@
 
 # Responsive random image gallery
 
-[a link](https://bassem-zakii.github.io/Image-Gallery/)
+## with css grid and js
+
+[Image Gallery website](https://bassem-zakii.github.io/Image-Gallery/)
